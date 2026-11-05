@@ -1,1 +1,1 @@
-Place real Apple TV screenshots here, then replace the placeholder elements in index.html and de/index.html.
+These seven screenshots are user-provided screenshots and optimized as WebP. Upload each into this directory using GitHub's Add file > Upload files, then commit to main. Expected filenames: home.webp, time-travel.webp, places.webp, albums.webp, photo-tools.webp, zoom.webp, slideshow.webp. The image files are included in the downloadable ZIP provided in the conversation.
